@@ -1,0 +1,28 @@
+body{
+    background: gold;
+}
+.boxes p {
+  color: gray;
+  text-align: center;
+}
+.red-box{
+	background-color: white;
+    text-align: center;
+	color: gray;
+    height: 100px;
+    width: 980px;
+	margin:5px auto 5px;
+}
+.red-box2{
+    background-color: white;
+	padding: 1em 1em;
+	color: gray;
+    height: 850px;
+    width: 50%;
+	margin:5px auto 5px;
+}
+.kder{
+   padding: 1em 1em;
+   width: 920px;
+   height: 550px;
+}

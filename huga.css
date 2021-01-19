@@ -1,0 +1,43 @@
+body{
+    background: gold;
+}
+.boxes p {
+  color: gray;
+}
+.red-box{
+	background-color: white;
+    text-align: center;
+	color: gray;
+    height: 100px;
+    width: 50%;
+	margin:5px auto 5px;
+}
+.red-box2{
+	 background-color: white;
+	padding: 1em 1em;
+	color: gray;
+    height: 1760px;
+    width: 48%;
+	margin:5px auto 5px;
+}
+.konder{
+   padding:1em 10em;
+   width: 550px;
+   height: 400px;
+}
+.simv{
+   width: 250px;
+   height: 230px;
+	}
+.lichnost{
+   width: 250px;
+   height: 220px;
+}
+.lichnost2{
+   width: 250px;
+   height: 220px;
+}
+.lider{
+   width: 300px;
+   height: 270px;
+}
